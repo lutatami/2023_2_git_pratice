@@ -1,3 +1,3 @@
-# Deascribtion
+# Description
 
-# Linked issue
+# Linked Issue
